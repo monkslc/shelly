@@ -1,5 +1,5 @@
 # shelly
-A command-line shell built in Rust
+A toy command-line shell built in Rust
 
 ### Examples
 **Commands**
